@@ -1,0 +1,26 @@
+
+# ==========================
+# Du an C# Windows Forms
+# ==========================
+
+# 1. Du lieu Visual Studio
+.vs/
+
+# 2. File sinh ra khi bien dich
+bin/
+obj/
+
+# 3. Cau hinh rieng cua nguoi dung
+*.user
+*.suo
+*.rsuser
+
+# 4. File nhat ky
+*.log
+
+# 5. File cau hinh bi mat
+.env
+.env.*
+
+# 6. Cho phep file cau hinh mau
+!.env.example
